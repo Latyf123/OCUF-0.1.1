@@ -1,0 +1,1363 @@
+[
+    {
+        "choiceId": "1pull",
+        "main": "1pull_00",
+        "hover": "1pull_01",
+        "desaturate": true,
+        "condition": null,
+        "buttonText": {
+            "text": "",
+            "size": {
+                "w": 80,
+                "h": 80
+            },
+            "font": {
+                "face": "Tahoma",
+                "size": 38,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 3
+            },
+            "margins": {
+                "x": 17,
+                "y": 45
+            }
+        },
+        "tooltipText": {
+            "text": "",
+            "size": {
+                "w": 300,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 20,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 70,
+                "y": -32
+            }
+        },
+        "disabledTooltipText": {
+            "text": "",
+            "size": {
+                "w": 120,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 14,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    {
+        "choiceId": "11pull",
+        "main": "11pull_00",
+        "hover": "11pull_01",
+        "desaturate": true,
+        "condition": null,
+        "buttonText": {
+            "text": "",
+            "size": {
+                "w": 80,
+                "h": 80
+            },
+            "font": {
+                "face": "Tahoma",
+                "size": 38,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 3
+            },
+            "margins": {
+                "x": 17,
+                "y": 45
+            }
+        },
+        "tooltipText": {
+            "text": "",
+            "size": {
+                "w": 300,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 20,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 56,
+                "y": -32
+            }
+        },
+        "disabledTooltipText": {
+            "text": "",
+            "size": {
+                "w": 120,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 14,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    {
+        "choiceId": "Back",
+        "main": "Back_00",
+        "hover": "Back_01",
+        "desaturate": true,
+        "condition": null,
+        "buttonText": {
+            "text": "",
+            "size": {
+                "w": 50,
+                "h": 50
+            },
+            "font": {
+                "face": "Tahoma",
+                "size": 38,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 3
+            },
+            "margins": {
+                "x": 17,
+                "y": 45
+            }
+        },
+        "tooltipText": {
+            "text": "",
+            "size": {
+                "w": 300,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 17,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 46,
+                "y": -32
+            }
+        },
+        "disabledTooltipText": {
+            "text": "",
+            "size": {
+                "w": 120,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 14,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    {
+        "choiceId": "Ready",
+        "main": "Ready_00",
+        "hover": "Ready_01",
+        "desaturate": true,
+        "condition": null,
+        "buttonText": {
+            "text": "",
+            "size": {
+                "w": 80,
+                "h": 80
+            },
+            "font": {
+                "face": "Tahoma",
+                "size": 38,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 3
+            },
+            "margins": {
+                "x": 17,
+                "y": 45
+            }
+        },
+        "tooltipText": {
+            "text": "",
+            "size": {
+                "w": 300,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 20,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 70,
+                "y": -32
+            }
+        },
+        "disabledTooltipText": {
+            "text": "",
+            "size": {
+                "w": 120,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 14,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    {
+        "choiceId": "Aika",
+        "main": "Aika_00",
+        "hover": "Aika_01",
+        "desaturate": true,
+        "condition": null,
+        "buttonText": {
+            "text": "",
+            "size": {
+                "w": 80,
+                "h": 80
+            },
+            "font": {
+                "face": "Tahoma",
+                "size": 38,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 3
+            },
+            "margins": {
+                "x": 17,
+                "y": 45
+            }
+        },
+        "tooltipText": {
+            "text": "30 Orb",
+            "size": {
+                "w": 300,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 20,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 70,
+                "y": -32
+            }
+        },
+        "disabledTooltipText": {
+            "text": "",
+            "size": {
+                "w": 120,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 14,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    {
+        "choiceId": "Chloe",
+        "main": "Chloe_00",
+        "hover": "Chloe_01",
+        "desaturate": true,
+        "condition": null,
+        "buttonText": {
+            "text": "",
+            "size": {
+                "w": 80,
+                "h": 80
+            },
+            "font": {
+                "face": "Tahoma",
+                "size": 38,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 3
+            },
+            "margins": {
+                "x": 17,
+                "y": 45
+            }
+        },
+        "tooltipText": {
+            "text": "30 Orb",
+            "size": {
+                "w": 300,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 20,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 70,
+                "y": -32
+            }
+        },
+        "disabledTooltipText": {
+            "text": "",
+            "size": {
+                "w": 120,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 14,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    {
+        "choiceId": "Abbeal",
+        "main": "Abbeal_00",
+        "hover": "Abbeal_01",
+        "desaturate": true,
+        "condition": null,
+        "buttonText": {
+            "text": "",
+            "size": {
+                "w": 80,
+                "h": 80
+            },
+            "font": {
+                "face": "Tahoma",
+                "size": 38,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 3
+            },
+            "margins": {
+                "x": 17,
+                "y": 45
+            }
+        },
+        "tooltipText": {
+            "text": "30 Orb",
+            "size": {
+                "w": 300,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 20,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 70,
+                "y": -32
+            }
+        },
+        "disabledTooltipText": {
+            "text": "",
+            "size": {
+                "w": 120,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 14,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    {
+        "choiceId": "Hana",
+        "main": "Hana_00",
+        "hover": "Hana_01",
+        "desaturate": true,
+        "condition": null,
+        "buttonText": {
+            "text": "",
+            "size": {
+                "w": 80,
+                "h": 80
+            },
+            "font": {
+                "face": "Tahoma",
+                "size": 38,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 3
+            },
+            "margins": {
+                "x": 17,
+                "y": 45
+            }
+        },
+        "tooltipText": {
+            "text": "30 Orb",
+            "size": {
+                "w": 300,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 20,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 70,
+                "y": -32
+            }
+        },
+        "disabledTooltipText": {
+            "text": "",
+            "size": {
+                "w": 120,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 14,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    {
+        "choiceId": "Issabel",
+        "main": "Issabel_00",
+        "hover": "Issabel_01",
+        "desaturate": true,
+        "condition": null,
+        "buttonText": {
+            "text": "",
+            "size": {
+                "w": 80,
+                "h": 80
+            },
+            "font": {
+                "face": "Tahoma",
+                "size": 38,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 3
+            },
+            "margins": {
+                "x": 17,
+                "y": 45
+            }
+        },
+        "tooltipText": {
+            "text": "30 Orb",
+            "size": {
+                "w": 300,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 20,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 70,
+                "y": -32
+            }
+        },
+        "disabledTooltipText": {
+            "text": "",
+            "size": {
+                "w": 120,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 14,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    {
+        "choiceId": "Karen",
+        "main": "Karen_00",
+        "hover": "Karen_01",
+        "desaturate": true,
+        "condition": null,
+        "buttonText": {
+            "text": "",
+            "size": {
+                "w": 80,
+                "h": 80
+            },
+            "font": {
+                "face": "Tahoma",
+                "size": 38,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 3
+            },
+            "margins": {
+                "x": 17,
+                "y": 45
+            }
+        },
+        "tooltipText": {
+            "text": "30 Orb",
+            "size": {
+                "w": 300,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 20,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 70,
+                "y": -32
+            }
+        },
+        "disabledTooltipText": {
+            "text": "",
+            "size": {
+                "w": 120,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 14,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    {
+        "choiceId": "Laldabaoth",
+        "main": "Laldabaoth_00",
+        "hover": "Laldabaoth_01",
+        "desaturate": true,
+        "condition": null,
+        "buttonText": {
+            "text": "",
+            "size": {
+                "w": 80,
+                "h": 80
+            },
+            "font": {
+                "face": "Tahoma",
+                "size": 38,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 3
+            },
+            "margins": {
+                "x": 17,
+                "y": 45
+            }
+        },
+        "tooltipText": {
+            "text": "30 Orb",
+            "size": {
+                "w": 300,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 20,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 70,
+                "y": -32
+            }
+        },
+        "disabledTooltipText": {
+            "text": "",
+            "size": {
+                "w": 120,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 14,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    {
+        "choiceId": "Lily",
+        "main": "Lily_00",
+        "hover": "Lily_01",
+        "desaturate": true,
+        "condition": null,
+        "buttonText": {
+            "text": "",
+            "size": {
+                "w": 80,
+                "h": 80
+            },
+            "font": {
+                "face": "Tahoma",
+                "size": 38,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 3
+            },
+            "margins": {
+                "x": 17,
+                "y": 45
+            }
+        },
+        "tooltipText": {
+            "text": "30 Orb",
+            "size": {
+                "w": 300,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 20,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 70,
+                "y": -32
+            }
+        },
+        "disabledTooltipText": {
+            "text": "",
+            "size": {
+                "w": 120,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 14,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    {
+        "choiceId": "Liosa",
+        "main": "Liosa_00",
+        "hover": "Liosa_01",
+        "desaturate": true,
+        "condition": null,
+        "buttonText": {
+            "text": "",
+            "size": {
+                "w": 80,
+                "h": 80
+            },
+            "font": {
+                "face": "Tahoma",
+                "size": 38,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 3
+            },
+            "margins": {
+                "x": 17,
+                "y": 45
+            }
+        },
+        "tooltipText": {
+            "text": "30 Orb",
+            "size": {
+                "w": 300,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 20,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 70,
+                "y": -32
+            }
+        },
+        "disabledTooltipText": {
+            "text": "",
+            "size": {
+                "w": 120,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 14,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    {
+        "choiceId": "Nidhogg",
+        "main": "Nidhogg_00",
+        "hover": "Nidhogg_01",
+        "desaturate": true,
+        "condition": null,
+        "buttonText": {
+            "text": "",
+            "size": {
+                "w": 80,
+                "h": 80
+            },
+            "font": {
+                "face": "Tahoma",
+                "size": 38,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 3
+            },
+            "margins": {
+                "x": 17,
+                "y": 45
+            }
+        },
+        "tooltipText": {
+            "text": "30 Orb",
+            "size": {
+                "w": 300,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 20,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 70,
+                "y": -32
+            }
+        },
+        "disabledTooltipText": {
+            "text": "",
+            "size": {
+                "w": 120,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 14,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    {
+        "choiceId": "Renka",
+        "main": "Renka_00",
+        "hover": "Renka_01",
+        "desaturate": true,
+        "condition": null,
+        "buttonText": {
+            "text": "",
+            "size": {
+                "w": 80,
+                "h": 80
+            },
+            "font": {
+                "face": "Tahoma",
+                "size": 38,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 3
+            },
+            "margins": {
+                "x": 17,
+                "y": 45
+            }
+        },
+        "tooltipText": {
+            "text": "30 Orb",
+            "size": {
+                "w": 300,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 20,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 70,
+                "y": -32
+            }
+        },
+        "disabledTooltipText": {
+            "text": "",
+            "size": {
+                "w": 120,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 14,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    {
+        "choiceId": "Rukuya",
+        "main": "Rukuya_00",
+        "hover": "Rukuya_01",
+        "desaturate": true,
+        "condition": null,
+        "buttonText": {
+            "text": "",
+            "size": {
+                "w": 80,
+                "h": 80
+            },
+            "font": {
+                "face": "Tahoma",
+                "size": 38,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 3
+            },
+            "margins": {
+                "x": 17,
+                "y": 45
+            }
+        },
+        "tooltipText": {
+            "text": "30 Orb",
+            "size": {
+                "w": 300,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 20,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 70,
+                "y": -32
+            }
+        },
+        "disabledTooltipText": {
+            "text": "",
+            "size": {
+                "w": 120,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 14,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    {
+        "choiceId": "Semanggi",
+        "main": "Semanggi_00",
+        "hover": "Semanggi_01",
+        "desaturate": true,
+        "condition": null,
+        "buttonText": {
+            "text": "",
+            "size": {
+                "w": 80,
+                "h": 80
+            },
+            "font": {
+                "face": "Tahoma",
+                "size": 38,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 3
+            },
+            "margins": {
+                "x": 17,
+                "y": 45
+            }
+        },
+        "tooltipText": {
+            "text": "30 Orb",
+            "size": {
+                "w": 300,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 20,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 70,
+                "y": -32
+            }
+        },
+        "disabledTooltipText": {
+            "text": "",
+            "size": {
+                "w": 120,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 14,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    {
+        "choiceId": "Tachibana",
+        "main": "Tachibana_00",
+        "hover": "Tachibana_01",
+        "desaturate": true,
+        "condition": null,
+        "buttonText": {
+            "text": "",
+            "size": {
+                "w": 80,
+                "h": 80
+            },
+            "font": {
+                "face": "Tahoma",
+                "size": 38,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 3
+            },
+            "margins": {
+                "x": 17,
+                "y": 45
+            }
+        },
+        "tooltipText": {
+            "text": "30 Orb",
+            "size": {
+                "w": 300,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 20,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 70,
+                "y": -32
+            }
+        },
+        "disabledTooltipText": {
+            "text": "",
+            "size": {
+                "w": 120,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 14,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    {
+        "choiceId": "Next",
+        "main": "Next_00",
+        "hover": "Next_01",
+        "desaturate": true,
+        "condition": null,
+        "buttonText": {
+            "text": "",
+            "size": {
+                "w": 80,
+                "h": 80
+            },
+            "font": {
+                "face": "Tahoma",
+                "size": 38,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 3
+            },
+            "margins": {
+                "x": 17,
+                "y": 45
+            }
+        },
+        "tooltipText": {
+            "text": "",
+            "size": {
+                "w": 300,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 20,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 70,
+                "y": -32
+            }
+        },
+        "disabledTooltipText": {
+            "text": "",
+            "size": {
+                "w": 120,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 14,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    {
+        "choiceId": "Return",
+        "main": "Return_00",
+        "hover": "Return_01",
+        "desaturate": true,
+        "condition": null,
+        "buttonText": {
+            "text": "",
+            "size": {
+                "w": 80,
+                "h": 80
+            },
+            "font": {
+                "face": "Tahoma",
+                "size": 38,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 3
+            },
+            "margins": {
+                "x": 17,
+                "y": 45
+            }
+        },
+        "tooltipText": {
+            "text": "30 Orb",
+            "size": {
+                "w": 300,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 20,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 70,
+                "y": -32
+            }
+        },
+        "disabledTooltipText": {
+            "text": "",
+            "size": {
+                "w": 120,
+                "h": 80
+            },
+            "font": {
+                "face": "Consolas",
+                "size": 14,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 2
+            },
+            "margins": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    {
+        "choiceId": "Ray",
+        "main": "ccMenu_ItemA_00",
+        "hover": "ccMenu_ItemA_01",
+        "desaturate": true,
+        "condition": null,
+        "buttonText": null,
+        "tooltipText": null,
+        "disabledTooltipText": null
+    },
+    {
+        "choiceId": "Alice",
+        "main": "ccMenu_ItemB_00",
+        "hover": "ccMenu_ItemB_01",
+        "desaturate": true,
+        "condition": null,
+        "buttonText": null,
+        "tooltipText": null,
+        "disabledTooltipText": null
+    }
+
+]

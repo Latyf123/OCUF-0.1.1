@@ -1,0 +1,378 @@
+[
+    {
+        "menuId": "GachaMenu",
+        "offset": {
+            "x": 0,
+            "y": 0
+        },
+        "headerText": {
+            "text": "",
+            "size": {
+                "w": 260,
+                "h": 100
+            },
+            "font": {
+                "face": null,
+                "size": 42,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 3
+            },
+            "margins": {
+                "x": 12,
+                "y": 152
+            }
+        },
+        "animation": {
+            "openDuration": "0.3",
+            "closeDuration": "0.3",
+            "opacityChangePerFrame": 10,
+            "scaleS": 1,
+            "scaleE": 1
+        },
+        "choicePos1": {
+            "positionS": {
+                "x": -350,
+                "y": 100
+            },
+            "positionE": {
+                "x": -350,
+                "y": 120
+            }
+        },
+        "choicePos2": {
+            "positionS": {
+                "x": 350,
+                "y": 100
+            },
+            "positionE": {
+                "x": 350,
+                "y": 120
+            }
+        },
+        "choicePos3": {
+            "positionS": {
+                "x": 0,
+                "y": 220
+            },
+            "positionE": {
+                "x": 0,
+                "y": 240
+            }
+        },
+        "choicePos4": {
+            "positionS": {
+                "x": -110,
+                "y": -10
+            },
+            "positionE": {
+                "x": -110,
+                "y": 10
+            }
+        },
+        "choicePos5": {
+            "positionS": {
+                "x": 0,
+                "y": 0
+            },
+            "positionE": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "choicePos6": {
+            "positionS": {
+                "x": 0,
+                "y": 0
+            },
+            "positionE": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    {
+        "menuId": "Special",
+        "offset": {
+            "x": 0,
+            "y": 0
+        },
+        "headerText": {
+            "text": "",
+            "size": {
+                "w": 260,
+                "h": 100
+            },
+            "font": {
+                "face": null,
+                "size": 42,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 3
+            },
+            "margins": {
+                "x": 12,
+                "y": 152
+            }
+        },
+        "animation": {
+            "openDuration": "0.3",
+            "closeDuration": "0.3",
+            "opacityChangePerFrame": 10,
+            "scaleS": 1,
+            "scaleE": 1
+        },
+        "choicePos1": {
+            "positionS": {
+                "x": 0,
+                "y": -50
+            },
+            "positionE": {
+                "x": 0,
+                "y": -50
+            }
+        },
+        "choicePos2": {
+            "positionS": {
+                "x": -300,
+                "y": 200
+            },
+            "positionE": {
+                "x": -300,
+                "y": 200
+            }
+        },
+        "choicePos3": {
+            "positionS": {
+                "x": 300,
+                "y": 200
+            },
+            "positionE": {
+                "x": 300,
+                "y": 200
+            }
+        },
+        "choicePos4": {
+            "positionS": {
+                "x": 400,
+                "y": -50
+            },
+            "positionE": {
+                "x": 400,
+                "y": -30
+            }
+        },
+        "choicePos5": {
+            "positionS": {
+                "x": 400,
+                "y": 100
+            },
+            "positionE": {
+                "x": 400,
+                "y": 120
+            }
+        },
+        "choicePos6": {
+            "positionS": {
+                "x": 0,
+                "y": 200
+            },
+            "positionE": {
+                "x": 0,
+                "y": 220
+            }
+        }
+    },
+    {
+        "menuId": "Word1",
+        "offset": {
+            "x": 0,
+            "y": 0
+        },
+        "headerText": {
+            "text": "",
+            "size": {
+                "w": 260,
+                "h": 100
+            },
+            "font": {
+                "face": null,
+                "size": 42,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 3
+            },
+            "margins": {
+                "x": 12,
+                "y": 152
+            }
+        },
+        "animation": {
+            "openDuration": "0.3",
+            "closeDuration": "0.3",
+            "opacityChangePerFrame": 10,
+            "scaleS": 1,
+            "scaleE": 1
+        },
+        "choicePos1": {
+            "positionS": {
+                "x": 0,
+                "y": 80
+            },
+            "positionE": {
+                "x": 0,
+                "y": 100
+            }
+        },
+        "choicePos2": {
+            "positionS": {
+                "x": 0,
+                "y": 220
+            },
+            "positionE": {
+                "x": 0,
+                "y": 240
+            }
+        },
+        "choicePos3": {
+            "positionS": {
+                "x": 0,
+                "y": 220
+            },
+            "positionE": {
+                "x": 0,
+                "y": 240
+            }
+        },
+        "choicePos4": {
+            "positionS": {
+                "x": -110,
+                "y": -10
+            },
+            "positionE": {
+                "x": -110,
+                "y": 10
+            }
+        },
+        "choicePos5": {
+            "positionS": {
+                "x": 0,
+                "y": 0
+            },
+            "positionE": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "choicePos6": {
+            "positionS": {
+                "x": 0,
+                "y": 0
+            },
+            "positionE": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    {
+        "menuId": "classSelectMenu",
+        "offset": {
+            "x": 640,
+            "y": 360
+        },
+        "headerText": {
+            "text": "",
+            "size": {
+                "w": 624,
+                "h": 200
+            },
+            "font": {
+                "face": null,
+                "size": 42,
+                "italic": false
+            },
+            "outline": {
+                "color": null,
+                "width": 3
+            },
+            "margins": {
+                "x": 280,
+                "y": -180
+            }
+        },
+        "animation": {
+            "openDuration": "0.3",
+            "closeDuration": "0.3",
+            "opacityChangePerFrame": 10,
+            "scaleS": 1,
+            "scaleE": 1
+        },
+        "choicePos1": {
+            "positionS": {
+                "x": -320,
+                "y": 0
+            },
+            "positionE": {
+                "x": -320,
+                "y": 0
+            }
+        },
+        "choicePos2": {
+            "positionS": {
+                "x": 320,
+                "y": 0
+            },
+            "positionE": {
+                "x": 320,
+                "y": 0
+            }
+        },
+        "choicePos3": {
+            "positionS": {
+                "x": 0,
+                "y": 0
+            },
+            "positionE": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "choicePos4": {
+            "positionS": {
+                "x": 0,
+                "y": 0
+            },
+            "positionE": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "choicePos5": {
+            "positionS": {
+                "x": 0,
+                "y": 0
+            },
+            "positionE": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "choicePos6": {
+            "positionS": {
+                "x": 0,
+                "y": 0
+            },
+            "positionE": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    }
+]
